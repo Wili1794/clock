@@ -1,0 +1,16 @@
+body {
+    background: #f0f0f0;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #111;
+    font-size: 70px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    letter-spacing: 7px;
+    text-shadow: 0 0 20px #cac9c9;
+}
